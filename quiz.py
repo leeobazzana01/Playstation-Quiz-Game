@@ -1,4 +1,4 @@
-print("Welcome to Leonardo's Quiz!!!")
+print("Welcome to Playstation's fan Quiz!!!")
 answer_user = input("Shall we Start? (Y/N)")
 
 if answer_user != "Y":
